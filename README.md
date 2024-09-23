@@ -8,3 +8,6 @@
 3. Tika Dian Pangastuti - 164221061
 4. Arkan Syafiq At’taqy - 164221062
 5. Nisrina Khairunisa - 164221097
+
+## Our code can accessed on:
+https://colab.research.google.com/drive/1rMSAF3iTW92FCp9l9uyolw1rHFcqzoJ7?usp=drive_link 
